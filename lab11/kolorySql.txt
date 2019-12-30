@@ -1,0 +1,19 @@
+CREATE TABLE kolory(
+kolor VARCHAR(15) NOT NULL,
+glosy INTEGER
+);
+
+INSERT INTO kolory(kolor,glosy) VALUES ('czerwony', 0);
+
+INSERT INTO kolory(kolor,glosy) VALUES ('zielony', 0);
+INSERT INTO kolory(kolor,glosy) VALUES ('niebieski', 0);
+INSERT INTO kolory(kolor,glosy) VALUES ('fioletowy', 0);
+INSERT INTO kolory(kolor,glosy) VALUES ('czarny', 0);
+
+CREATE TABLE news(
+id INT AUTO_INCREMENT PRIMARY KEY NOT NULL,
+nazwa VARCHAR(30) NOT NULL,
+data DATETIME NOT NULL,
+autor VARCHAR(30) NOT NULL,
+tresc LONGTEXT NOT NULL
+);

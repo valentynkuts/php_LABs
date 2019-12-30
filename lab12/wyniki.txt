@@ -1,0 +1,28 @@
+20.05.18*18:00*Górnik Zabrze*Wisła Kraków*2*0
+20.05.18*18:00*Jagiellonia Białystok*Wisła Płock*2*1
+20.05.18*18:00*Korona Kielce*Zagłębie Lubin*0*2
+20.05.18*18:00*Lech Poznań*Legia Warszawa*0*3
+19.05.18*18:00*Arka Gdynia*Śląsk Wrocław*0*1
+19.05.18*18:00*Cracovia*Pogoń Szczecin*1*4
+19.05.18*18:00*Lechia Gdańsk*Sandecja Nowy Sącz*1*1
+19.05.18*18:00*Piast Gliwice*Bruk-Bet T.*4*0
+13.05.18*18:00*Legia Warszawa*Górnik Zabrze*2*0
+13.05.18*18:00*Wisła Kraków*Lech Poznań*1*1
+13.05.18*18:00*Wisła Płock*Korona Kielce*4*1
+13.05.18*18:00*Zagłębie Lubin*Jagiellonia Białystok*1*2
+12.05.18*15:30*Bruk-Bet T.*Arka Gdynia*2*1
+12.05.18*15:30*Pogoń Szczecin*Lechia Gdańsk*1*1
+12.05.18*15:30*Sandecja Nowy Sącz*Cracovia*0*1
+12.05.18*15:30*Śląsk Wrocław*Piast Gliwice*3*1
+09.05.18*20:30*Lech Poznań*Jagiellonia Białystok*0*2
+09.05.18*20:30*Wisła Kraków*Zagłębie Lubin*3*0
+09.05.18*18:00*Górnik Zabrze*Korona Kielce*2*2
+09.05.18*18:00*Legia Warszawa*Wisła Płock*3*2
+08.05.18*20:30*Arka Gdynia*Cracovia*2*0
+08.05.18*20:30*Śląsk Wrocław*Pogoń Szczecin*2*0
+08.05.18*18:00*Bruk-Bet T.*Sandecja Nowy Sącz*1*1
+08.05.18*18:00*Piast Gliwice*Lechia Gdańsk*0*2
+06.05.18*18:00*Jagiellonia Białystok*Legia Warszawa*0*0
+06.05.18*15:30*Korona Kielce*Wisła Kraków*0*3
+06.05.18*15:30*Zagłębie Lubin*Górnik Zabrze*0*2
+05.05.18*20:30*Wisła Płock*Lech Poznań*0*0

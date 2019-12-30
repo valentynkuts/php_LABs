@@ -1,0 +1,11 @@
+CREATE TABLE STATS(
+id INTEGER AUTO_INCREMENT PRIMARY KEY,
+data_czas DATETIME,
+przegladarka VARCHAR(40),
+system_operacyine VARCHAR(40),
+ip VARCHAR(40)
+);
+
+
+
+INSERT INTO STATS (data_czas,przegladarka,system_operacyine,ip) VALUES (date("Y-m-d H:i:s"),'RRRRR','GGGG','123.343.44.5');

@@ -1,0 +1,4 @@
+student student
+admin admin
+user 123
+root toor

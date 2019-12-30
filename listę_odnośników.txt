@@ -1,0 +1,4 @@
+https://www.php.net/manual/ru/function.fopen.php fopen
+https://www.php.net/manual/ru/function.file-get-contents.php file_get_contents
+https://www.php.net/manual/ru/function.file-put-contents.php file_put_contents
+https://www.php.net/manual/ru/function.fclose.php fclose

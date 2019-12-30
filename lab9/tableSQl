@@ -1,0 +1,11 @@
+CREATE TABLE users(
+id INTEGER AUTO_INCREMENT PRIMARY KEY,
+nazwa VARCHAR(40) UNIQUE,
+haslo VARCHAR(40),
+email VARCHAR(40),
+rejestracja INTEGER,
+logowanie INTEGER,
+ip VARCHAR(40)
+);
+
+INSERT INTO users (nazwa,haslo,email,rejestracja,logowanie,ip) VALUES ('Bill','123','bill@gmail.com',123,321,'123.343.44.5');

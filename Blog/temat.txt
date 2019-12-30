@@ -1,0 +1,20 @@
+Blog
+Każdy wpis składa się z tytułu, automatycznie wstawianej daty i treści. Wpisy
+powinny być przechowywane w bazie danych. Wymagane funkcje: dodawanie
+wpisów, kasowanie wpisów, wyświetlanie wpisów po jednym z nawigacją (poprzedni,
+następny).
+
+---------------
+CREATE DATABASE Blog;
+
+CREATE TABLE Blog(
+id int AUTO_INCREMENT PRIMARY KEY,
+tytul TEXT NOT NULL,
+data_czas VARCHAR(20),
+tekst LONGTEXT
+);
+
+INSERT INTO Blog (tytul,data,tekst) VALUES ('Tytul',date('Y-m-d H:i:s'),'Tekst');
+
+-----------------------
+

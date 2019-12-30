@@ -1,0 +1,128 @@
+awake|awoke|awoken|budzić się
+be|was|been|być
+become|became|become|zostawać
+begin|began|begun|rozpocząć
+behold|beheld|beheld|zobaczyć
+bend|bent|bent|giąć
+bet|bet|bet|zakładać się
+bid |bid|bid|licytować
+bind|bound|bound|związywać
+bite|bit|bitten|gryźć
+bleed|bled|bled|krwawić
+blow|blew|blown|dmuchać
+break|broke|broken|tłuc, zepsuć się
+breed|bred|bred|hodować
+bring|brought|brought|przynosić
+build|built|built|budować
+burn|burnt|butnt|palić
+burst|burst|burst|rozsadzać
+buy|bought|bought|kupować
+cast|cast|cast|rzucać
+catch|caught|caught|łapać
+choose|chose|chosen|wybierać
+come|came|come|przychodzić
+cost|cost|cost|kosztować
+cut|cut|cut|kroić
+dig|dug|dug|kopać
+drive|drove|driven|kierować
+eat|ate|eaten|jeść
+fall|fell|fallen|upaść
+feed|fed|fed|karmić
+feel|felt|felt|czuć
+fight|fought|fought|walczyć
+find|found|found|znaleźć
+fit|fit|fit|pasować
+flee|fled|fled|uciekać
+fly|flew|flown|latać
+forbid|forbade|forbidden|zakazać
+forget|forgot|forgotten|zapominać
+forgive|forgave|forgiven|wybaczać
+freeze|froze|frozen|zamarzać
+get|got|got |dostać
+give|gave|given|dawać
+go|went|gone|iść
+grow|grew|grown|rosnąć
+hang|hung|hung|powiesić
+have|had|had|mieć
+hear|heard|heard|słyszeć
+hide|hid|hidden|schować
+hit|hit|hit|uderzyć
+hold|held|held|trzymać
+hurt|hurt|hurt|ranić
+keep|kept|kept|trzymać
+know|knew|known|wiedzieć
+lay|laid|laid|kłaść
+lead|led|led|prowadzić
+lean|leant|leant|pochylać się
+leap|leapt|leapt|skakać
+learn|learnt|learnt|uczyć się
+leave|left|left|zostawiać
+lend|lent|lent|pożyczać
+let|let|let|pozwolić
+lie|lay|lain|leżeć
+light|lit|lit|zapalać
+lose|lost|lost|gubić
+make|made|made|robić
+meet|met|met|spotkać
+mistake|mistook|mistaken|pomylić
+pay|paid|paid|płacić
+prove|proved|proved|udowadniać
+put|put|put|kłaść
+quit|quit|quit|zrezygnować
+read|read|read|czytać
+rid|rid|rid|pozbyć się
+ride|rode|ridden|jeździć (konno)
+ring|rang|rung|dzwonić
+rise|rose|risen|wzrastać
+run|ran|run|biec
+saw|sawed|sawn|piłować
+see|saw|seen|widzieć
+seek|sought|sought|szukać
+sell|sold|sold|sprzedawać
+send|sent|sent|wysyłać
+set|set|set|nastawić
+sew|sewed|sewn|szyć
+shake|shook|shaken|trząść
+shine|shone|shone|lśnić
+shoot|shot|shot|strzelać
+show|showed|shown|pokazywać
+shrink|shrank|shrunk|kurczyć się
+shut|shut|shut|zamykać
+sing|sang|sung|śpiewać
+sink|sank|sunk|tonąć
+sit|sat|sat|siadać
+sleep|slept|slept|spać
+slide|slid|slid|ślizgać się
+smell|smelt|smelt|pachnieć
+speak|spoke|spoken|mówić
+speed|sped|sped|pędzić
+spell|spelt|spelt|przeliterować
+spend|spent|spent|spędzać, wydawać
+spill|spilt|spilt|rozlewać
+spin|spun|spun|wirować
+split|split|split|dzielić
+spread|spread|spread|rozkładać
+spring|sprang|sprung|skakać
+stand|stood|stood|stać
+steal|stole|stolen|kraść
+stick|stuck|stuck|przyklejać
+sting|stung|stung|kłuć
+stink|stank|stunk|cuchnąć
+stride|strode|stridden|kroczyć
+strike|struck|struck|uderzać
+strive|strove|striven|dążyć do czegoś
+swear|swore|sworn|przysięgać
+swim|swam|swum|pływać
+take|took|taken|brać
+teach|taught|taught|nauczać
+tear|tore|torn|drzeć
+tell|told|told|opowiadać
+think|thought|thought|myśleć
+throw|threw|thrown|rzucać
+wake|woke|woken|budzić się
+wear|wore|worn|nosić - mieć na sobie
+wet|wet|wet|zwilżać
+win|won|won|wygrać
+wind|wound|wound|nawijać
+wring|wrung|wrung|dzwonić
+write|wrote|written|pisać

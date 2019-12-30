@@ -1,0 +1,19 @@
+<?php
+
+$dane = array("telewizor", "książka", "słuchawka", "stół", "kawa");
+
+echo '<pre>';
+print_r($dane);
+echo '</pre>';
+
+array_push($dane, "telefon", "plecak");
+
+echo '<pre>';
+print_r($dane);
+echo '</pre>';
+
+$arr = array_diff($dane, array("książka", "stół"));
+
+echo '<pre>';
+print_r($arr);
+echo '</pre>';
